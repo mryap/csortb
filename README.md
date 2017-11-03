@@ -32,3 +32,13 @@ install_github("mryap/csortb")</pre>
 
 - [ ] To be able to pull out data by typing `Property Type`, `Location`, `Number of Bedrooms`, `Year`
 - [ ] Getting this R package on Comprehensive R Archive Network (CRAN), the main repository for R packages (it like getting nominate for Oscar) 
+
+# Motivation
+
+Ireland's Central Statistics Office (CSO) housing related data 
+http://www.cso.ie/px/pxeirestat/pssn/doehlg/Database/DoEHLG/Housing%20Statistics/Housing%20Statistics.aspmake can be downloaded in common formats, including Microsoft Excel, comma-separated text.
+
+However, if you plan to make multiple or large selections, it is advisable to download the full obscure px-format data file.
+These px format files can only be used with the PC-Axis software and only on Microsoft Windows. 
+
+My package helps to overcome this quandary
