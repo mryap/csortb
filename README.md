@@ -31,3 +31,4 @@ install_github("mryap/csortb")</pre>
 # Next Iteration
 
 - [ ] To be able to pull out data by typing `Property Type`, `Location`, `Number of Bedrooms`, `Year`
+- [ ] Getting this R package on Comprehensive R Archive Network (CRAN), the main repository for R packages (it like getting nominate for Oscar) 
