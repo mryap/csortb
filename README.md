@@ -1,5 +1,12 @@
 # CSO RTB R Package
 
+This package contains information about Ireland's average monthly rent by 
+* Property Type, 
+* Location, 
+* Number of Bedrooms and 
+* Year
+
+Data Source: http://www.cso.ie/px/pxeirestat/Database/eirestat/Residential%20Tenancies%20Board%20(RTB)/Residential%20Tenancies%20Board%20(RTB)_statbank.asp?SP=Residential%20Tenancies%20Board%20(RTB)&Planguage=0&ProductID=DB_RI
 
 This package is released under MIT License.
 
@@ -20,3 +27,7 @@ You can install my package with just two lines of code:
 <pre>library(devtools)
 
 install_github("mryap/csortb")</pre>
+
+# Next Iteration
+
+- [ ] To be able to pull out data by typing `Property Type`, `Location`, `Number of Bedrooms`, `Year' 
