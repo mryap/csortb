@@ -31,7 +31,7 @@ install_github("mryap/csortb")</pre>
 # Next Iteration
 
 
-- [ ] To create functions that return data in a tidy format, 
+- [ ] To create functions that return data in a `tidy` format (https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
 - [ ] Allowing users to easily visualize output using plain-vanilla ggplots. 
 - [ ] To be able to pull out data by typing `Property Type`, `Location`, `Number of Bedrooms`, `Year`
 - [ ] Getting this R package on Comprehensive R Archive Network (CRAN), the main repository for R packages (it like getting nominate for Oscar) 
